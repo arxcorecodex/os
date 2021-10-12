@@ -1,0 +1,2 @@
+admin cmd > bcdedit /set {current} description "type name here"
+== replaces the current drive's description into the new name
